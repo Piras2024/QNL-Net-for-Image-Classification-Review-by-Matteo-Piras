@@ -23,7 +23,7 @@ The model combines **classical dimensionality reduction techniques** (CNN or PCA
 
 ### 🧩 Quantum Circuit
 
-![Quantum Circuit](images/QNL-Circuit.png)  
+![Quantum Circuit](images/QNL_Circuit.png)  
 *Figure 1 – The 4-qubit quantum circuit used in QNL-Net: it consists of an Encoder (Hadamard + Phase), a trainable Variational Quantum Circuit (VQC), and final measurement on qubit 0.*
 
 ---
