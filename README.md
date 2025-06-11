@@ -52,10 +52,10 @@ In addition to the original binary classification approach described in the pape
 
 This repository contains two Jupyter Notebooks:
 
-- `QNLNet_MNIST_multiclass.ipynb`  
+- `MNIST_QNL_Net.ipynb`  
   Implements QNL-Net for **multiclass classification** on the **MNIST** dataset.
 
-- `QNLNet_CIFAR10_binary_multiclass.ipynb`  
+- `CIFAR10_QNL_Net.ipynb`  
   Implements QNL-Net for both **binary classification** and **multiclass classification (4 classes)** on the **CIFAR-10** dataset.
 
 Each notebook explores different **VQC configurations** and training setups.
