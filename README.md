@@ -1,1 +1,1 @@
-# QNL_Net for Image Classification – Review by Matteo Piras
+# QNL-Net for Image Classification – Review by Matteo Piras
