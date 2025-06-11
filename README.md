@@ -23,21 +23,21 @@ The model combines **classical dimensionality reduction techniques** (CNN or PCA
 
 ### 🧩 Quantum Circuit
 
-![Quantum Circuit](images/1.png)  
+![Quantum Circuit](images/QNL-Circuit.png)  
 *Figure 1 – The 4-qubit quantum circuit used in QNL-Net: it consists of an Encoder (Hadamard + Phase), a trainable Variational Quantum Circuit (VQC), and final measurement on qubit 0.*
 
 ---
 
 ### 🔀 Entanglement Strategies
 
-![Ansätze](images/2.png)  
+![Ansätze](images/Ansatzes.png)  
 *Figure 2 – The three VQC ansätze: Ansatz-0 (cyclic entanglement), Ansatz-1 (reversed linear chain), and Ansatz-2 (mixed). Each block uses Rx, Ry, Rz rotations and CX gates.*
 
 ---
 
 ### 🧱 Full Hybrid Architecture
 
-![QNL-Net Architecture](images/3.png)  
+![QNL-Net Architecture](images/Full-QNL-Architecture.png)  
 *Figure 3 – The complete QNL-Net architecture: (a) CNN-QNL-Net with convolutional preprocessing; (b) PCA-QNL-Net with PCA; (c) quantum module; (d) post-QNL-Net classical refinement.*
 
 ---
